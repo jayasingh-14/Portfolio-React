@@ -3,7 +3,7 @@ const config = require('./src/config');
 module.exports = {
   siteMetadata: {
     title: config.siteTitle,
-    siteUrl: config.siteUrl,
+    siteUrl: 'https://github.com/jayasingh-14/jayasingh-14.github.io',
     description: config.siteDescription,
     image: '/images/og.png',
   },
