@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://github.com/jayasingh-14/sitemap-index.xml
+Host: https://github.com
