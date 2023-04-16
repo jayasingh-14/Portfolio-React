@@ -106,7 +106,7 @@ const Footer = () => {
           target="_blank"
           rel="nofollow noopener noreferrer">
           <div>
-            Portfolio 2023<br></br>
+            Inspired by - Brittany Chiang<br></br>
           </div>
 
           {githubInfo.stars && githubInfo.forks && (

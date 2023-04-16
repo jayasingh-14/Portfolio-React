@@ -12,7 +12,7 @@ skills:
   - Graphics
 ---
 
-Hello! I am Jaya Singh, a UIUX Designer and a Web Developer who's day revolves around designing & devloping stuff and Tech Communities.
+Hello! I am Jaya Singh, a UIUX Designer and a Web Developer who's day revolves around designing & developing stuff and arounf Technical Communities.
 
 I started exploring various things apart from my college curriculum since my 1st year and presently working on various projects and learning new & latest technologies to build & design something innovative.
 
