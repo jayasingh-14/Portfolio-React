@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Jaya Singh | Frontend Developer | Designer | Student',
+  siteTitle: 'Jaya Singh',
   siteDescription:
     'Jaya Singh is undergraduate developing and designing things',
   siteKeywords:

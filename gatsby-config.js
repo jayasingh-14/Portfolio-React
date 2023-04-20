@@ -5,7 +5,6 @@ module.exports = {
     title: config.siteTitle,
     siteUrl: 'https://github.com/jayasingh-14/jayasingh-14.github.io',
     description: config.siteDescription,
-    image: '/images/og.png',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -17,13 +16,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'ChandrikaDeb',
-        short_name: 'ChandrikaDeb',
+        name: 'JayaSingh',
+        short_name: 'Jaya',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
-        display: 'minimal-ui',
-        icon: 'src/images/logo.png',
       },
     },
     `gatsby-plugin-offline`,
