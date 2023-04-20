@@ -5,6 +5,7 @@ module.exports = {
     title: config.siteTitle,
     siteUrl: 'https://github.com/jayasingh-14/jayasingh-14.github.io',
     description: config.siteDescription,
+    image: '',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -21,6 +22,8 @@ module.exports = {
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
+        display: 'minimal-ui',
+        icon: 'src/images/logo.png',
       },
     },
     `gatsby-plugin-offline`,
